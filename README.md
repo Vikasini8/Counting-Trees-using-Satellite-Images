@@ -27,4 +27,3 @@ Below you see one of the satellite images and the corresponding labels:
 
 
 
-The model for deep learning and the model for machine learning depends strongly on the quality and quantity of the training data. In a sense, the greater the amount of data we enter into the model, the better the performance we achieve. 
